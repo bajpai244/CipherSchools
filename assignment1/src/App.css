@@ -1,0 +1,25 @@
+h2,h3{
+	text-align: center;
+	margin-top: 35px;
+}
+
+#time{
+	padding: 10px;
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
+.container{
+	padding-top: 15px;
+	display: flex;
+	justify-content: center;
+}
+
+.info{
+	text-align: center;
+}
+
+button{
+	margin-left: 10px;
+	margin-right: 10px;
+}
