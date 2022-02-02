@@ -1,3 +1,5 @@
+The project is depolyed to [https://cipher-school-assignment-2.vercel.app/](https://cipher-school-assignment-2.vercel.app/)
+
 You may also see any lint errors in the console.
 The page will reload when you make changes.\
 
