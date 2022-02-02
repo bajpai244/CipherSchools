@@ -14,4 +14,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Getting Started with Create React App
 
-![screenshot](https://cloud-dbl02oemn-hack-club-bot.vercel.app/0image.png)
+![screenshot](https://raw.githubusercontent.com/bajpai244/CipherSchools/main/assignment2/public/Screenshot%202022-02-02%20at%2010.37.46%20PM.png)
